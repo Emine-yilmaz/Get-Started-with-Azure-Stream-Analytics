@@ -142,5 +142,3 @@ Start the Stream Analytics job to begin processing real-time data.
 12. Click the **⬜ Stop** button at the top of the page and confirm to stop the job.
 
 **Important:** After completing this lab, remember to delete the resource group `dp203-xxxxxxx` in the Azure portal to avoid incurring unnecessary costs.
-
-Congratulations! You have successfully provisioned and configured an Azure Stream Analytics job to process real-time event data.
